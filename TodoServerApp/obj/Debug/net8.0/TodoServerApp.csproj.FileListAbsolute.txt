@@ -23,11 +23,13 @@ D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerA
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\dotnet-ef.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
@@ -124,6 +126,7 @@ D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerA
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\staticwebassets.pack.json
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\scopedcss\Components\Pages\Tasks.razor.rz.scp.css
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\scopedcss\bundle\TodoServerApp.styles.css
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\scopedcss\projectbundle\TodoServerApp.bundle.scp.css
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\TodoServ.88DA21DA.Up2Date
@@ -132,5 +135,3 @@ D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerA
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\TodoServerApp.pdb
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\TodoServerApp.genruntimeconfig.cache
 D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\obj\Debug\net8.0\ref\TodoServerApp.dll
-D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\dotnet-ef.dll
-D:\object oriented programming (track 2)\hits.blazor.todo.modenovaap\TodoServerApp\bin\Debug\net8.0\Newtonsoft.Json.dll

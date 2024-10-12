@@ -186,8 +186,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/object oriented programming (track 2)/hits.blazor.todo.modenovaap/TodoServerApp/Components/Pages/Tasks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrcy5yYXpvcg==
+[d:/object oriented programming (track 2)/hits.blazor.todo.modenovaap/TodoServerApp/Components/Pages/TaskForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/object oriented programming (track 2)/hits.blazor.todo.modenovaap/TodoServerApp/Components/Pages/Weather.razor]
@@ -209,3 +209,7 @@ build_metadata.AdditionalFiles.CssScope = b-4r29tnxhd3
 [d:/object oriented programming (track 2)/hits.blazor.todo.modenovaap/TodoServerApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-sjxx0rbckp
+
+[d:/object oriented programming (track 2)/hits.blazor.todo.modenovaap/TodoServerApp/Components/Pages/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kjhs61ji3d

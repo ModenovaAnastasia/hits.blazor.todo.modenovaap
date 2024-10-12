@@ -221,3 +221,8 @@ main[b-4r29tnxhd3] {
         overflow-y: auto;
     }
 }
+/* _content/TodoServerApp/Components/Pages/Tasks.razor.rz.scp.css */
+.card[b-kjhs61ji3d] {
+    margin: 0.5rem;
+    min-width: 20rem;
+}
